@@ -1,0 +1,22 @@
+{
+  "name": "automatizacion_github_playwright_piloto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamux7/Automatizacion_GitHub_Playwright_Piloto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zamux7/Automatizacion_GitHub_Playwright_Piloto/issues"
+  },
+  "homepage": "https://github.com/zamux7/Automatizacion_GitHub_Playwright_Piloto#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
